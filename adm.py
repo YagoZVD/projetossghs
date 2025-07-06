@@ -116,7 +116,7 @@ def criar_dados_exemplo():
                 preco_unitario=0.25,
                 fornecedor="MedSupply Ltda",
                 validade="2025-03-15",
-                unidade="Hospital Central"
+                unidade="SGHSS"
             ),
             Suprimento(
                 nome="Seringa 10ml",
@@ -126,7 +126,7 @@ def criar_dados_exemplo():
                 preco_unitario=1.50,
                 fornecedor="Hospitalmed S.A.",
                 validade="2026-01-20",
-                unidade="Hospital Central"
+                unidade="SGHSS"
             ),
             Suprimento(
                 nome="Álcool Gel 70%",
@@ -136,7 +136,7 @@ def criar_dados_exemplo():
                 preco_unitario=12.50,
                 fornecedor="Química Hospitalar",
                 validade="2025-08-10",
-                unidade="Clínica Bairro Norte"
+                unidade="SGHSS"
             )
         ]
         
